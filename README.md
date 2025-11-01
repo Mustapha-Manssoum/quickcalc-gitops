@@ -1,1 +1,1 @@
-# quickcalc-gitops
+# deployment repo for https://github.com/Mustapha-Manssoum/QuickCalc
