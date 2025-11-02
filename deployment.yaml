@@ -17,7 +17,7 @@ spec:
       - name: ghcr-secret
       containers:
       - name: quick-calc
-        image: ghcr.io/mustapha-manssoum/quickcalc:466ef0fcab168f1e53e8f071d9b9e5d7db7b9f2c
+        image: ghcr.io/mustapha-manssoum/quickcalc:f605246dcff7ce60ed1356cf80bc2c5546b060f8
         ports:
         - containerPort: 8080
         resources:
